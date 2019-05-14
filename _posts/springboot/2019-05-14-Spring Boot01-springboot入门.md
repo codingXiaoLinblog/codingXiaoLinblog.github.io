@@ -11,10 +11,6 @@ author: wql
 {:toc}
 一直以来想把spring boot知识进行一次系统的归纳整理，但因各种原因外加拖延症，直到才开始整理。本文是基于SpringBoot 1.5.9，是spring boot系列第一篇。
 
-
-
-
-
 # **一、**Spring Boot 入门
 
 ## 1、Spring Boot 简介
@@ -80,7 +76,7 @@ author: wql
 
 整合maven进来；
 
-![idea设置]({{ "images/搜狗截图20180129151045.png" | absolute_url }})
+![idea设置](/_images/springboot/搜狗截图20180129151045.png)
 
 
 
