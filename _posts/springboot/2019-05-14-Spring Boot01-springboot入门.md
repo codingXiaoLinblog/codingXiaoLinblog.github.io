@@ -3,7 +3,8 @@ layout: post
 title:  "springboot(一)：Spring Boot 入门"
 date:   2019-05-14 09:06:30
 categories: Spring Boot
-tags: Spring Boot
+tags: springboot
+author: wql
 ---
 
 * content
@@ -79,7 +80,7 @@ tags: Spring Boot
 
 整合maven进来；
 
-![idea设置](images/搜狗截图20180129151045.png)
+![idea设置]({{ "images/搜狗截图20180129151045.png" | absolute_url }})
 
 
 
