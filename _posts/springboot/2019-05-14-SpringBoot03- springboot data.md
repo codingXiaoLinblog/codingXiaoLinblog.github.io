@@ -1,14 +1,14 @@
 ---
 layout: post
-title:  "springboot(四)：springData JPA "
+title:  "springboot(三)：springboot data "
 date:   2019-05-14 13:16:30
 categories: Spring Boot
-tags: springboot thymeleaf
+tags: springboot springboot-data
 ---
 
 * content
 {:toc}
-本文是基于spring boot1.5.9，是spring boot系列第四篇，主要讲解springData JPA。
+本文是基于spring boot1.5.9，是spring boot系列第四篇，主要讲解springboot data。
 
 
 

@@ -1,3 +1,20 @@
+---
+layout: post
+title:  "springboot(三)：springData-JPA "
+date:   2019-05-14 13:16:30
+categories: Spring Boot
+tags: springboot springData-JPA
+---
+
+* content
+{:toc}
+本文是基于spring boot1.5.9，是spring boot系列第四篇，主要讲解springData-JPA。
+
+
+
+
+
+
 # SpringData JPA
 
 ## 1）、SpringData简介
