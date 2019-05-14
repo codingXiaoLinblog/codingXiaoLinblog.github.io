@@ -10,6 +10,7 @@ tags: springboot springData-JPA
 {:toc}
 本文是基于spring boot1.5.9，是spring boot系列第四篇，主要讲解springData-JPA。
 
+
 # SpringData JPA
 
 ## 1）、SpringData简介

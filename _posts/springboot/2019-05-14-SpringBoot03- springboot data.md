@@ -10,6 +10,7 @@ tags: springboot springboot-data
 {:toc}
 本文是基于spring boot1.5.9，是spring boot系列第四篇，主要讲解springboot data。
 
+
 ## 1、JDBC
 
 ```xml

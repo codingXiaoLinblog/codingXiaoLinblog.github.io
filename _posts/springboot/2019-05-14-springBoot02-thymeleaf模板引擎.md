@@ -10,6 +10,7 @@ tags: springboot thymeleaf
 {:toc}
 本文是基于spring boot1.5.9，是spring boot系列第二篇，主要讲解thymeleaf模板的使用。
 
+
 ## 1、引入thymeleaf；
 
 ```xml

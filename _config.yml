@@ -55,7 +55,7 @@ tag_dir: tag/
 # excerpt
 #excerpt_separator: "\n\n\n\n"
 #excerpt_separator: <!--more-->
-excerpt_separator: "\n"
+excerpt_separator: "\n\n"
 
 # paginate
 plugins: [jekyll-paginate]
