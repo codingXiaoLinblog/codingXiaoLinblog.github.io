@@ -10,9 +10,6 @@ tags: springboot thymeleaf
 {:toc}
 本文是基于spring boot1.5.9，是spring boot系列第二篇，主要讲解thymeleaf模板的使用。
 
-
-
-
 ## 1、引入thymeleaf；
 
 ```xml
@@ -104,7 +101,7 @@ public class HelloController {
 ```
 
 ## 3、thymeleaf语法规则
-![](images/2018-02-04_123955.png)
+![](../../assets/springboot/2018-02-04_123955.png)
 
 1）、th:text；改变当前元素里面的文本内容；
 

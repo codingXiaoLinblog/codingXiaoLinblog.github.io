@@ -10,9 +10,6 @@ tags: springboot springboot-data
 {:toc}
 本文是基于spring boot1.5.9，是spring boot系列第四篇，主要讲解springboot data。
 
-
-
-
 ## 1、JDBC
 
 ```xml
@@ -155,7 +152,7 @@ public class DruidConfig {
 		</dependency>
 ```
 
-![](images/搜狗截图20180305194443.png)
+![](../../assets/springboot/搜狗截图20180305194443.png)
 
 步骤：
 
