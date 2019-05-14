@@ -80,7 +80,7 @@ author: wql
 
 
 
-![images/](/assets/springboot/搜狗截图20180129151112.png)
+![maven配置](/assets/springboot/搜狗截图20180129151112.png)
 
 ## 4、Spring Boot HelloWorld
 
