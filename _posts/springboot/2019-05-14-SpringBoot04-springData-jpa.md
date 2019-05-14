@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "springboot(三)：springData-JPA "
-date:   2019-05-14 13:16:30
+title:  "springboot(四)：springData-JPA "
+date:   2019-05-14 13:30:30
 categories: Spring Boot
 tags: springboot springData-JPA
 ---
