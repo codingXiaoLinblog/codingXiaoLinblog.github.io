@@ -2,7 +2,7 @@
 layout: post
 title:  "springboot(一)：Spring Boot 入门"
 date:   2019-05-14 09:06:30
-categories: Spring Boot
+categories: springboot
 tags: springboot
 author: wql
 ---
