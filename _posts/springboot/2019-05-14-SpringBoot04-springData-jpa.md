@@ -2,8 +2,9 @@
 layout: post
 title:  "springboot(四)：springData-JPA "
 date:   2019-05-14 13:30:30
-categories: Spring Boot
+categories: springboot
 tags: springboot springData-JPA
+author: wql
 ---
 
 * content

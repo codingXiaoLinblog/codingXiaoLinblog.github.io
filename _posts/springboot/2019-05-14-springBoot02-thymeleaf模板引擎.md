@@ -2,8 +2,9 @@
 layout: post
 title:  "springboot(二)：thymeleaf使用详解 "
 date:   2019-05-14 13:16:30
-categories: Spring Boot
+categories: springboot
 tags: springboot thymeleaf
+author: wql
 ---
 
 * content
