@@ -346,7 +346,6 @@ Thanks these friends!!!
 * 2016.05.07 received 吴林 ¥2
 * 2016.04.29 received 北归 ¥10
 * 2016.04.28 received 魏楚阳_Brian ¥2
-* 2016.04.28 received 薛彬 ¥8.8
 
 
 ## Update Log
