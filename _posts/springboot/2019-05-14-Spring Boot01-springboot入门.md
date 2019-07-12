@@ -77,7 +77,7 @@ author: wql
 
 整合maven进来；
 
-![idea设置](../../assets/springboot/搜狗截图20180129151045.png)
+![idea设置](/assets/springboot/搜狗截图20180129151045.png)
 
 ![maven配置](/assets/springboot/搜狗截图20180129151112.png)
 
