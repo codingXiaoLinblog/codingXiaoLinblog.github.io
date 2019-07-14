@@ -7,7 +7,7 @@
 
 # Site settings
 title: W&Z的技术专栏
-brief-intro: Android and Python Coder
+brief-intro: Hadoop and JAVA Coder
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://codingxiaolinblog.github.io" # the base hostname & protocol for your site
 
